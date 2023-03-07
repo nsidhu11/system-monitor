@@ -2,7 +2,7 @@
 #define linux
 
 #include <iostream>
-// #include <fstream>
+#include <fstream>
 #include <regex>
 #include <string>
 using namespace std;
