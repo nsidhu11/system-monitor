@@ -34,4 +34,7 @@ The functionality that can be added to the Linux System Monitor project is limit
 4. Run using `./build/monitor`
 
 ## Demo
-<a href="{demo.mo4}" title="Link Title"><img src="{/demp.png}" alt="Demo" /></a>
+
+<p align="center">
+  <img src="/demo.png">
+</p>
