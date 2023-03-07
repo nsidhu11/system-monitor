@@ -1,0 +1,3 @@
+/home/nsidhu11/Documents/projects/sys/system-monitor/build/CMakeFiles/monitor.dir
+/home/nsidhu11/Documents/projects/sys/system-monitor/build/CMakeFiles/edit_cache.dir
+/home/nsidhu11/Documents/projects/sys/system-monitor/build/CMakeFiles/rebuild_cache.dir

@@ -4,9 +4,8 @@
 #include <string>
 using namespace std;
 
-namespace Format
-{
-    string elapsed_Time(long times);
+namespace Format {
+string elapsed_Time(long times);
 };
 
 #endif
